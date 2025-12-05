@@ -1,19 +1,27 @@
 <div align="center">
-  <h3>Hi there 👋, I am Jyotpreet Kaur</h3>
-  <h3>A Full-Stack Web Developer from India</h3>
+  <h2>Hi, I'm Jyotpreet Kaur 👋</h2>
+  <h3>Full-Stack Developer • Product Thinker </h3>
 </div>
 
-Currently in my final year of BTech, I strive to make the world a better place by solving problems through code and spreading positivity through my words. When I'm not coding, you'll find me nose deep in a book or simply soaking in the serenity of nature.
+I build user-centric web products by combining full-stack engineering with thoughtful product design and UX. I handle full-stack web development, product workflows, design systems, backend logic, and analytics.  
+
+Outside tech, I write and explore storytelling.
 
 ---
 
-# About Me
+## 🚀 What I Do
 
-- 😄 Pronouns: she/her
-- 🌱 I’m currently learning **DSA** and React frameworks like **Next.js**.
-- 👯 I’m looking to collaborate on impactful projects and dive into the world of **open source**.
-- 🤔 I’m looking for help with **Machine Learning** and **DSA**.
-- ⚡ Fun fact: I'm a future author ;)
+- 👩‍💻 Full-stack development (React, Next.js, Node.js, Express, Parse)
+- 🎨 Product design & UX flows (Figma — designing & prototyping)
+- 🏗️ API development, cloud functions & scalable backend logic
+- 🧩 Building dashboards, editors, SRS docs & full features from **0 → 1**
+- 📊 Setting up analytics (GA4, GTM) to understand real user behavior
+
+---
+## 🤝 Looking to Collaborate On
+
+- Products that blend engineering and storytelling.
+- Products that need someone who can handle **both tech & product**. 
 
 ---
 
