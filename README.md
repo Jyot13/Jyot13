@@ -1,27 +1,38 @@
 <div align="center">
   <h2>Hi, I'm Jyotpreet Kaur 👋</h2>
-  <h3>Full-Stack Developer • Product Thinker </h3>
+  <h3>Product Engineer • Full-Stack Developer • Systems Thinker
+ </h3>
 </div>
 
-I build user-centric web products by combining full-stack engineering with thoughtful product design and UX. I handle full-stack web development, product workflows, design systems, backend logic, and analytics.  
+I build thoughtful digital products by combining full-stack engineering, product thinking, and user-centered design.
 
-Outside tech, I write and explore storytelling.
+My work spans the full product lifecycle — from feature ideation and UX flows to scalable backend systems, polished frontend experiences, and analytics-driven iteration.
+
+I enjoy turning ambiguous ideas into structured, intuitive products that balance usability, clarity, and business goals.
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Work On
 
-- 👩‍💻 Full-stack development (React, Next.js, Node.js, Express, Parse)
+- **0 → 1** product development for startups
+- 👩‍💻 Full-stack web applications (React, Next.js, Node.js, Express, Parse)
 - 🎨 Product design & UX flows (Figma — designing & prototyping)
-- 🏗️ API development, cloud functions & scalable backend logic
-- 🧩 Building dashboards, editors, SRS docs & full features from **0 → 1**
-- 📊 Setting up analytics (GA4, GTM) to understand real user behavior
+- 🏗️ API architecture, backend logic & cloud functions
+- 🧩 Product systems, dashboards, editors & internal tools
+- 📊 Analytics & product insights (GA4, GTM)
 
 ---
-## 🤝 Looking to Collaborate On
+## 🤝 Interested In 
 
-- Products that blend engineering and storytelling.
-- Products that need someone who can handle **both tech & product**. 
+- Product-focused engineering
+- Human-centered digital experiences
+- Creative systems & workflow tools
+- Design-engineering collaboration
+- Emotionally aware UX and product thinking
+
+Outside tech, I write, explore storytelling, and build creative digital systems.
+
+Open to collaborating with startups, founders, and teams building thoughtful products.
 
 ---
 
